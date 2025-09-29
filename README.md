@@ -1,9 +1,7 @@
 <h1 align="center">Hi I'm Rediet Melaku</h1>
 <h3 align="center">Full stack developer with expertise in front-end technologies like React, and back-end technologies ,NodeJs . Always eager to learn and take on new challenges in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bereketmuniye&label=Profile%20views&color=0e75b6&style=flat" alt="Bereketmuniye" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bereket_muniye" target="blank"><img src="https://img.shields.io/twitter/follow/bereket_muniye?logo=twitter&style=for-the-badge" alt="bereket_muniye" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [redietmel](https://github.com/redietmel)
 - 📫 How to reach me **redietmelaku07@gmail.com**
