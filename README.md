@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Rediet Melaku</h1>
-<h3 align="center">Full stack developer with expertise in front-end technologies like React, and back-end technologies ,NodeJs . Always eager to learn and take on new challenges in the tech world.</h3>
+<h3 align="center">Full stack developer with expertise in front-end technologies like React, and back-end technologies NodeJs . Always eager to learn and take on new challenges in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
